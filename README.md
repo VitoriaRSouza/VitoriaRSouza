@@ -46,7 +46,7 @@
   Contacts
 <h3>
 <div align="center">
-<a href="linkedin.com/in/vitória-ribeiro-297196239" target="_blank">
+<a href="https://www.linkedin.com/in/vitória-ribeiro-297196239" target="_blank">
 <img align="center" height="60" width="60" src="https://github.com/user-attachments/assets/30b56520-a0a1-4ae5-81bf-fc05852fe2d4">
 </a>
 
