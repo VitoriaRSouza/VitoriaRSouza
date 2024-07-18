@@ -6,7 +6,7 @@
   🔎  Atuamente, estou buscando começar minha carreira na área de TI <br>
   🌍  Resido em São Paulo-BR <br>
   📝  Estou apenas aprimorando meus conhecimentos <br>
-  🎮  Gosto de jogo e aprender coisas novas
+  🎮  Gosto de jogos e aprender coisas novas
 </p>
 
 <br>
